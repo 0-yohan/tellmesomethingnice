@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import promptsData from './prompts.json';
-import ReactHtmlParser from 'react-html-parser';
+// import ReactHtmlParser from 'html-react-parser';
+
+import parse from 'html-react-parser';
 
 function MainContent() {
     const [prompt, setPrompt] = useState('');
@@ -22,7 +24,7 @@ function MainContent() {
           {/* {prompt ? ( <div className="prompt">{prompt}</div> ) : ( <p>Click the button to generate a random prompt</p> )} */}
           {prompt && (
         <div className="prompt">
-          <p>{ReactHtmlParser(prompt.text)}</p>
+          <p>{parse(prompt.text)}</p>
           {prompt.author ? (<div className="author">~{prompt.author}</div>): (<p> </p>) }
         </div>
       )}
