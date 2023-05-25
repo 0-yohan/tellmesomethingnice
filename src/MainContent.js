@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import promptsData from './prompts.json';
-import ReactHtmlParser from 'react-html-parser';
+import ReactHtmlParser from 'html-react-parser';
 
 function MainContent() {
     const [prompt, setPrompt] = useState('');
