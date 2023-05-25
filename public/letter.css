@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'Aquiline';
+  src: url('./fonts/AquilineTwo.ttf') format('truetype');
+}
+
+
+body {
+    margin: 10;
+    font-family: 'Aquiline', sans-serif;
+
+    
+  }
+
+.hbd-jhnvi{
+    background-color: #f9cfc4;
+}

@@ -19,7 +19,7 @@ function MainContent() {
 
     
     return (
-        <div className="container">
+        <div className="container main-page">
           <h1>Tell Me Something Nice</h1>
           {/* {prompt ? ( <div className="prompt">{prompt}</div> ) : ( <p>Click the button to generate a random prompt</p> )} */}
           {prompt && (

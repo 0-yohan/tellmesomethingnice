@@ -1,31 +1,54 @@
 [
-    {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis faucibus elit a mollis. Donec tempor volutpat felis nec mattis. Aenean ipsum magna, posuere vel imperdiet a, efficitur vitae nibh. Suspendisse sit amet nisl et diam sodales cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In porta dignissim elit, in convallis augue lobortis nec. Integer egestas eget augue et interdum.",
-        "author": "Lipsum"
-    }
-    ,
-    {
-      "text": "Reveal to me everything you find ugly about yourself, so I can reveal to you everything I find beautiful about you.",
-      "author": "Juansen Dizon"
-    }
-    ,
-    {          
-      "text": "Like two stars in the depths of the sky <br> This gravity is just irresistible <br> We spin around each other, you and I <br> When I fell for you, I fell into your orbit.",
-      "author": "Justin Wetch"
-    }
-    ,
-    {          
-      "text": "I'm wrapped in you.<br> Melting in your silhouette<br> and becoming one,<br> a strange contour of love,<br> flowing with the wind.",
-      "author": "Emily Brandt"
-    }
-    ,
-    {          
-      "text": "I bet you make babies smile",
-      "author": ""
-    }
-
-
-
-
-    
-  ]
+  {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis faucibus elit a mollis. Donec tempor volutpat felis nec mattis. Aenean ipsum magna, posuere vel imperdiet a, efficitur vitae nibh. Suspendisse sit amet nisl et diam sodales cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In porta dignissim elit, in convallis augue lobortis nec. Integer egestas eget augue et interdum.",
+    "author": "Lipsum"
+  },
+  {
+    "text": "Reveal to me everything you find ugly about yourself, so I can reveal to you everything I find beautiful about you.",
+    "author": "Juansen Dizon"
+  },
+  {
+    "text": "Like two stars in the depths of the sky <br> This gravity is just irresistible <br> We spin around each other, you and I <br> When I fell for you, I fell into your orbit.",
+    "author": "Justin Wetch"
+  },
+  {
+    "text": "I'm wrapped in you.<br> Melting in your silhouette<br> and becoming one,<br> a strange contour of love,<br> flowing with the wind.",
+    "author": "Emily Brandt"
+  },
+  {
+    "text": "I bet you make babies smile",
+    "author": ""
+  },
+  {
+    "text": "You're awesome, I'm glad to have a friend like you who's cheerful and hardworking. ",
+    "author": "Hwaitingh"
+  },
+  {
+    "text": "It's okay to not be okay",
+    "author": ""
+  },
+  {
+    "text": "You are not bothering anyone at all, they would love to hear more of your thoughts",
+    "author": ""
+  },
+  {
+    "text": "You've already survived the things you didn't think you'd survive",
+    "author": ""
+  },
+  {
+    "text": "You're strong<br>and you can get through everything one step at a time",
+    "author": ""
+  },
+  {
+    "text": "Treat yourself better, you deserve it",
+    "author": ""
+  },
+  {
+    "text": "You mean so much to your friends and family,<br>they may not say it as often but they really do love you",
+    "author": ""
+  },
+  {
+    "text": "You're loved,<br> someone out there loves you more than you think",
+    "author": ""
+  }
+]

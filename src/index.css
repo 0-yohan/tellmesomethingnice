@@ -5,10 +5,16 @@ body {
   font-family: Consolas, monaco, monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #c1bbdd;
+  
   cursor: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BlackDot.svg/2048px-BlackDot.svg.png'),auto;
 
 }
+
+.main-page{
+  background-color: #c1bbdd;
+}
+
+
 
 code {
   font-family: Consolas, 'Courier New', monospace;
