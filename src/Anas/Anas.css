@@ -1,0 +1,17 @@
+.page{
+    padding: 2px 190px 0px;
+    background-color: peachpuff;
+    margin: 0;
+    overflow: hidden;
+}
+
+.heading1{
+    font-size: 3.1rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+.sign1{
+    font-size: 1rem;
+}

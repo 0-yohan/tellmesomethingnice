@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Aquiline';
+  src: url('./fonts/AquilineTwo.ttf') format('truetype');
+}
+
+/* html,
+body,
+#root,
+.hbd-jhnvi {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+} */
+
+#hbd-jhnvi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f7f2e7; /* Parchment background color */
+  color: #373737; /* Ink pen text color */
+  font-family: 'Aquiline', sans-serif; /* Custom font */
+  font-size: 20px; /* Adjust the font size as needed */
+}
+#hbd-jhnvi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f2e7;
+  color: #373737;
+  font-size: 20px;
+  height: 100vh; /* Set the height to 100vh to cover the entire viewport height */
+}
+
+h1 {
+  font-size: 36px; /* Font size for main heading */
+}
+
+p {
+  font-size: 18px; /* Font size for content */
+}
