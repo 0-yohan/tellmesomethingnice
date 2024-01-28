@@ -4,8 +4,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals.js';
 import MainContent from './MainContent.js';
-import Anas from '../../../temp/Anas/Anas.js';
-import '../../../temp/Anas/Anas.css';
+import Anas from './Anas/Anas.js';
+import './Anas/Anas.css';
 
 function renderLetterJhnvi() {
   return (
