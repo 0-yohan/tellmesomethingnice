@@ -1,0 +1,70 @@
+body{
+    /* background-color: #706C61; */
+    /* background-color: #333333; */
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-image: url(../Lily/ccity.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.letter2{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid;
+    border-color: #ffffff00; 
+    border-radius: 15px; 
+    width:50%;
+    margin: auto;
+    position: absolute;
+    transform: translate(45%, -50%); 
+    top: 50%;
+    padding: 1px 23px 5px;
+    /* background-color: #333333; */
+    background-color: #fff1cb65;
+    /* background-color: #e9c9ffad; */
+    color: #160026;
+    text-align: justify;
+    text-justify: auto;
+}
+
+.heading2{
+    text-align: center;
+    /* color: #FFFFFF; */
+    font-size: 50px;
+    margin: 20px 0px 25px;
+
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+.sign2{
+    font-size: 23px;
+    /* color: white; */
+    margin-left: 10px;
+    font-weight: 100;
+    color: rgb(27, 4, 58);
+
+}
+
+.text2{
+    color: rgb(25, 1, 57);
+    margin: 0px 10px ;
+    font-weight: 100;
+}
+
+.corner-button{
+    position: absolute;
+    bottom: 20px; 
+    right: 20px;  
+    padding: 20px 12px; 
+    background-color: #86f1f898; 
+    color: rgb(8, 0, 45); 
+    border: 10px solid transparent;
+    border-radius: 100px; 
+    cursor: pointer; 
+    font-size: large;
+}

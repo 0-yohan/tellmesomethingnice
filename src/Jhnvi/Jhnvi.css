@@ -1,0 +1,44 @@
+.page {
+  background-color: #f2f2f2; /* Light gray background */
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.letter-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #fff; /* White letter background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.letter-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.letter-paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.letter-quote {
+  font-style: italic;
+  margin: 10px 0;
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.letter-image {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 50%;
+}

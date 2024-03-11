@@ -6,14 +6,19 @@ import reportWebVitals from './reportWebVitals.js';
 import MainContent from './MainContent.js';
 import Anas from './Anas/Anas.js';
 import './Anas/Anas.css';
+import Jhnvi from './Jhnvi/Jhnvi.js';
+import './Jhnvi/Jhnvi.css';
+import Lily from './Lily/Lily.js';
+import './Lily/Lily.css';
 
-function renderLetterJhnvi() {
-  return (
-    <div id="hbd-jhnvi">
-      <iframe src={process.env.PUBLIC_URL + '/jhnvi.html'} title="happppppy birthday" width="100%" height="100%" frameBorder="0"></iframe>
-    </div>
-  );
-}
+
+// function renderLetterJhnvi() {
+//   return (
+//     <div id="hbd-jhnvi">
+//       <iframe src={process.env.PUBLIC_URL + '/jhnvi.html'} title="happppppy birthday" width="100%" height="100%" frameBorder="0"></iframe>
+//     </div>
+//   );
+// }
 
 // function renderLetterAnas() {
 //   return (
@@ -29,8 +34,10 @@ ReactDOM.render(
     <Router>
       <Routes>
         <Route exact path="" element={<MainContent />} />
-        <Route exact path="/jhnvi" element={<>{renderLetterJhnvi()}</>} />
+        <Route exact path="/jhnvi" element={<Jhnvi />} />
         <Route exact path="/anas" element={<Anas />} />
+        <Route exact path="/lily" element={<Lily />} />
+
 
       </Routes>
     </Router>

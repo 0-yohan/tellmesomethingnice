@@ -4,6 +4,7 @@ import "./Anas.css";
 
 const Anas = () => {
   return (
+    <div>
     <div className="page">
       <div className="letter">
         <div className="heading1">So the day has come huh?</div>
@@ -49,6 +50,7 @@ const Anas = () => {
           </div>
         </h4>
       </div>
+    </div>
     </div>
   );
 };
