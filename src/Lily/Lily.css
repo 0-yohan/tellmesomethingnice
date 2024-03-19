@@ -34,15 +34,15 @@ body{
 .heading2{
     text-align: center;
     /* color: #FFFFFF; */
-    font-size: 50px;
+    font-size: 45px;
     margin: 20px 0px 25px;
 
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     font-weight: 600;
 }
 
 .sign2{
-    font-size: 23px;
+    font-size: 20px;
     /* color: white; */
     margin-left: 10px;
     font-weight: 100;
@@ -67,4 +67,10 @@ body{
     border-radius: 100px; 
     cursor: pointer; 
     font-size: large;
+}
+
+.music{
+    margin-top: 5px;
+    font-size: 15px;
+    cursor: pointer;
 }
