@@ -26,9 +26,16 @@ const Lily = () => {
       <audio ref={audioRef} src={`${process.env.PUBLIC_URL}/yellow.mp3`} autoPlay /> {/* Hidden audio element */}
       <div className="page2" onClick={toggleAudio}>
         <div className="letter2">
-          <div className="heading2">Happy Birthday <div className="music">(toggle music)</div></div>
+          <div className="heading2">Janam din Mubarak ho Likhitha! <div className="music">(toggle music)</div></div>
           <p className="text2">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Adipiscing diam donec adipiscing tristique risus nec feugiat. Gravida arcu ac tortor dignissim convallis aenean et tortor. Accumsan tortor posuere ac ut consequat semper viverra nam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Eleifend donec pretium vulputate sapien. Duis ut diam quam nulla porttitor massa. Amet mattis vulputate enim nulla. Venenatis cras sed felis eget velit aliquet. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Blandit libero volutpat sed cras ornare arcu dui vivamus. Non tellus orci ac auctor augue mauris augue neque. Lorem ipsum dolor sit amet consectetur adipiscing.
+            Happiest birthday to one of the bestest person in this world, to ever exist. You have haved me in awe from ever since I met you for the 2nd time. You're wonderful and full of surprises. Honestly Lily, youre awesome. You're so badass and wonderful. The more I start to know about you, the more I  realise how extra-ordinary you are. You're so thoughful and non judgemental at the same time that I can just be so goofy and childish around you without anyy worries. You're adorable, you're fun, you're someone they'd call you a Golden Retriever (even tho idk much about dogs). You're specail to me and for maany others too, thanks for existing, I'm greatful that your dad didn't use condom on that fateful night. I'd definitely compete against other guys for you. 
+           </p>
+          <br />
+          <p className="text2">
+            Isn't it kinda cutely funny how just shuffling words can make them sound so much more special although being true at the same time? Like, look at this... <br />
+            "I am so much mean to you." but "You mean so much to me." <br />
+            There's a lot I want to confess to you about, starting from how precious your smile is, how much I admire your kindness to how witty and funny you are. I really like spending time with you. You really are like the beam of sunshine that lights up my dark corners.
+            You make me feel safe. You also make me do wierd things (like writing a birthday letter).
           </p>
           <br />
           <p className="text2">
@@ -40,18 +47,15 @@ const Lily = () => {
           </p>
           <br />
           <p className="text2">
-            Magna eget est lorem ipsum dolor sit amet. Maecenas pharetra convallis posuere morbi leo urna molestie at. Vulputate ut pharetra sit amet aliquam id. Auctor eu augue ut lectus arcu. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate.
-          </p>
-          <br />
-          <p className="text2">
-            Magna eget est lorem ipsum dolor sit amet. Maecenas pharetra convallis posuere morbi leo urna molestie at. Vulputate ut pharetra sit amet aliquam id. Auctor eu augue ut lectus arcu. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate.
+            Be cherished. Be treasured. Be adored and Once again,<br /> 
+            Happy Birthday Beloved. 💛
           </p>
           <br />
           <h4>
             <div className="sign2">
-              Hentai with,
+              Your Godfather,
               <br />
-              Senpai
+              Ameen.
             </div>
           </h4>
         </div>
