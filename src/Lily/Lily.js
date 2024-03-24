@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet'
 
 const Lily = () => {
   const [isPlaying, setIsPlaying] = useState(false);
-  const audioRef = useRef(null); // useRef hook for audio element
+  const audioRef = useRef(null); 
 
   const toggleAudio = () => {
     const audio = audioRef.current;
@@ -26,7 +26,7 @@ const Lily = () => {
       <audio ref={audioRef} src={`${process.env.PUBLIC_URL}/yellow.mp3`} autoPlay /> {/* Hidden audio element */}
       <div className="page2" onClick={toggleAudio}>
         <div className="letter2">
-          <div className="heading2">Lorem Ipsum <div className="music">toggle music</div></div>
+          <div className="heading2">Lorem Ipsum <div className="music">`(`toggle music`)`</div></div>
           <p className="text2">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Adipiscing diam donec adipiscing tristique risus nec feugiat. Gravida arcu ac tortor dignissim convallis aenean et tortor. Accumsan tortor posuere ac ut consequat semper viverra nam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Eleifend donec pretium vulputate sapien. Duis ut diam quam nulla porttitor massa. Amet mattis vulputate enim nulla. Venenatis cras sed felis eget velit aliquet. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Blandit libero volutpat sed cras ornare arcu dui vivamus. Non tellus orci ac auctor augue mauris augue neque. Lorem ipsum dolor sit amet consectetur adipiscing.
           </p>
