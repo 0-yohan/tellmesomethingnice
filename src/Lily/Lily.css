@@ -20,7 +20,7 @@ body{
     width:50%;
     margin: auto;
     position: absolute;
-    transform: translate(45%, -48%); 
+    transform: translate(45%, -50%); 
     top: 50%;
     padding: 1px 23px 5px;
     /* background-color: #333333; */
@@ -32,6 +32,8 @@ body{
 }
 
 .heading2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
     text-align: center;
     /* color: #FFFFFF; */
     font-size: 45px;
@@ -42,6 +44,8 @@ body{
 }
 
 .sign2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
     font-size: 20px;
     /* color: white; */
     margin-left: 10px;
@@ -51,6 +55,8 @@ body{
 }
 
 .text2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
     color: rgb(19, 0, 45);
     margin: 0px 10px ;
     font-weight: 300;
