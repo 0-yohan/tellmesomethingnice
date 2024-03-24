@@ -20,7 +20,7 @@ body{
     width:50%;
     margin: auto;
     position: absolute;
-    transform: translate(45%, -50%); 
+    transform: translate(45%, -48%); 
     top: 50%;
     padding: 1px 23px 5px;
     /* background-color: #333333; */
@@ -45,15 +45,15 @@ body{
     font-size: 20px;
     /* color: white; */
     margin-left: 10px;
-    font-weight: 150;
+    font-weight: 250;
     color: rgb(27, 4, 58);
 
 }
 
 .text2{
-    color: rgb(25, 1, 57);
+    color: rgb(19, 0, 45);
     margin: 0px 10px ;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .corner-button{
