@@ -52,7 +52,7 @@ const Lily = () => {
           </p>
           <br />
           <p className="text2">
-            You are like a lily to me, which has a mesmerizing fragrance and a positive effect on mind. Did you know that lilies are quite extrovert and social. They bloom without much human intervention. They flower during the spring and summer and go dormant during the winter, just like someone I know who blooms during summers too. Apparently, lilies symbolize ambition and encouragement, innocence and purity, passion and healing. <br />
+            You are so just like a lily, which has a mesmerizing fragrance and a positive effect on mind. Did you know that lilies are quite extrovert and social. They bloom without much human intervention. They flower during the spring and summer and go dormant during the winter, just like someone I know who blooms during summers too. Apparently, lilies symbolize ambition and encouragement, innocence and purity, passion and healing. <br />
             You're like a lily, you have such a pure heart and always see the best in people. you're strong and beautiful, even when things get tough. Ughh, I wish there was telepathy and we could share thoughts and you would know what all that goes in my head when I think about you. Fr, cause I'm so bad at explaining things. <br />Anyways,
           </p>
           <br />
