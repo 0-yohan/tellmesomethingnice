@@ -28,18 +28,19 @@ const Lily = () => {
         <div className="letter2">
           <div className="heading2">Janam din Mubarak Likhitha! <div className="music" onClick={toggleAudio}>(toggle music)</div></div>
           <p className="text2">
-            HBD pookie. Happiest birthday to one of the bestest person in this world, to ever exist. You have haved me in awe from ever since I met you for the 2nd time. You're wonderful and full of surprises. Honestly shawty, you're awesome. You're so badass and wonderful at the same time. The more I start to know about you, the more I  realise how extra-ordinary you are. You're so thoughful and non judgemental at the same time that I can just be so goofy and childish around you without anyy worries. You're adorable, you're fun, you're someone they'd call you a Golden Retriever (even tho idk much about dogs). You're specail to me and for maany others too, thanks for existing, I'm greatful that your dad didn't use condom on that fateful night. I'd definitely compete against other guys for you. 
+            HBD pookie. Happiest birthday to one of the bestest person in this world, to ever exist. You have haved me in awe from ever since I met you for the 2nd time. You're wonderful and full of surprises. Honestly shawty, you're awesome. You're so badass and wonderful at the same time. The more I start to know about you, the more I  realise how extra-ordinary you are. You're so thoughful and non judgemental at the same time that I can just be so goofy and childish around you without anyy worries. You're adorable, you're fun, you're someone they'd call you a Golden Retriever (even tho idk much about dogs). You're specail to me and for maany others too, thanks for existing,  I'm greatful that your dad didn't use condom on that fateful night. I'd definitely compete against other guys for you. 
            </p>
           <br />
           <p className="text2">
             Isn't it kinda cutely funny how just shuffling words can make them sound so much more special although being true at the same time? Like, look at this... <br />
-            " I am so much mean to you " but " You mean so much to me "
+            " I am so much mean to you. " but " You mean so much to me. "
             
           </p>
           <br />
           <p className="text2">
             There's a lot I want to confess to you about, starting from how precious your smile is, how much I admire your kindness to how witty and funny you are. I really like spending time with you. You really are like the beam of sunshine that lights up my dark corners.
-            You make me feel safe. You also make me do wierd things (like writing a birthday letter).
+            You make me feel safe. You also make me do wierd things (like writing a birthday letter).<br />
+            My mind is overflowing! There's so much I want to tell you. Like you mentioned we were on call at this time an year ago and how oblivious I was that it was your birthday, Gosh I feel so embarrassed about it even after forgetting it. Still kicking myself for that one. I just have this urge to talk about everything – my feelings, thoughts, the world around me, like I'm writing a giant diary review. I wish I could freeze time and just chat with you endlessly about anything and everything, without a single care.
           </p>
           <br />
           <p className="text2">
@@ -47,8 +48,12 @@ const Lily = () => {
           </p>
           <br />
           <p className="text2">
-            So...I was thinkking on what to gift you on this special day. You really showered me with those unexpected presents out of the blue. That was so cuteee, I always needed a cropped tee, I wanted a fountain pen for calligraphy and I love rings. It was as if you read my mind. But, what can I gift you, I'm not that capable or creative but for sure one day I'll make it up for it. But for now...behold my today's gift. Lily. I am gifting you the name LILY. Ik that I did call you Lily multiple times but from now on, you are oficially named Lily and thus by naming you, I shall become your Godfather. Do you know why 'Lily'? It's not about Lily from the book It Ends With US, or because Likhitha can be nicknamed Lily, it sounds cute and tbh it started from there but then as time went by your qualities really resembled that of the flower lily. <br />
-            You are like a lily to me, 
+            So...I was thinkking on what to gift you on this special day. You really showered me with those unexpected presents out of the blue. That was so cuteee, I always needed a cropped tee, I wanted a fountain pen for calligraphy and I love rings. It was as if you read my mind. But, what can I gift you, I'm not that capable or creative but for sure one day I'll make it up for it. But for now...behold my today's gift. Lily. I am gifting you the name LILY. Ik that I did call you Lily multiple times but from now on, you are oficially named Lily and thus by naming you, I shall become your Godfather. Do you know why 'Lily'? It's not about Lily from the book It Ends With US, or because Likhitha can be nicknamed Lily, it sounds cute and tbh it started from there but then as time went by your qualities really resembled that of the flower lily.
+          </p>
+          <br />
+          <p className="text2">
+            You are like a lily to me, which has a mesmerizing fragrance and a positive effect on mind. Did you know that lilies are quite extrovert and social. They bloom without much human intervention. They flower during the spring and summer and go dormant during the winter, just like someone I know who blooms during summers too. Apparently, lilies symbolize ambition and encouragement, innocence and purity, passion and healing. <br />
+            You're like a lily, you have such a pure heart and always see the best in people. you're strong and beautiful, even when things get tough. Ughh, I wish there was telepathy and we could share thoughts and you would know what all that goes in my head when I think about you. Fr, cause I'm so bad at explaining things. <br />Anyways,
           </p>
           <br />
           <p className="text2">
