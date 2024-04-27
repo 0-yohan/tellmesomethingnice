@@ -75,9 +75,8 @@ const Lily = () => {
           <br />
           <h4>
             <div className="sign2">
-              Your Godfather lol,
+              Yours...
               <br />
-              Ameen.
             </div>
           </h4>
         </div>
