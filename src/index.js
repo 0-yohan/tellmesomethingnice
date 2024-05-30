@@ -12,21 +12,6 @@ import Lily from './Lily/Lily.js';
 import './Lily/Lily.css';
 
 
-// function renderLetterJhnvi() {
-//   return (
-//     <div id="hbd-jhnvi">
-//       <iframe src={process.env.PUBLIC_URL + '/jhnvi.html'} title="happppppy birthday" width="100%" height="100%" frameBorder="0"></iframe>
-//     </div>
-//   );
-// }
-
-// function renderLetterAnas() {
-//   return (
-// <div id="hbd-anas">
-//       <iframe src={process.env.PUBLIC_URL + '/anas.html'} title="HBD Bro" width="100%" height="100%" frameBorder="0"></iframe>
-//     </div>
-//   );
-// }
 
 
 ReactDOM.render(
@@ -34,7 +19,7 @@ ReactDOM.render(
     <Router>
       <Routes>
         <Route exact path="" element={<MainContent />} />
-        <Route exact path="/jhnvi" element={<Jhnvi />} />
+        <Route exact path="/jasmine" element={<Jhnvi />} />
         <Route exact path="/anas" element={<Anas />} />
         <Route exact path="/lily" element={<Lily />} />
 
