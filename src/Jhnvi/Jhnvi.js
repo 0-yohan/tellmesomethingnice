@@ -341,7 +341,8 @@ const Jhnvi = () => {
           happened and didn’t want it to happen again. Even though I know it
           might’ve and I’ve failed. But then…I thought of making this site. A
           website. Tell Me Something Nice. Here’s the link:{" "}
-          <a href={"https://tellmesomethingnice.vercel.app/"}>
+          <a href={"https://tellmesomethingnice.vercel.app/"} target="
+          _blank" rel="noopener">
             https://tellmesomethingnice.vercel.app/
           </a>{" "}
           or there’s a button at the bottom right that’ll take you directly
@@ -430,7 +431,7 @@ const Jhnvi = () => {
           Although there’s a lot I wan't to write like... Umm Vijalakhmi mam or
           uh... idk theres so much, but I suppose I would better stop. This
           might have been a very long read and I shouldn’t be taking this much
-          time on your birthday. Plus, there are barely 5 hours for the clock to
+          time on your birthday. Plus, there are barely 3 hours for the clock to
           strike 12, I should finish this and push it up.
           <br /> <br />
           That sums it up. I really pray this wasn’t so cringe. Although I bet
