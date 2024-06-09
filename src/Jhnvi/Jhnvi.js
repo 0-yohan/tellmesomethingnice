@@ -167,18 +167,6 @@ const Jhnvi = () => {
           just writing down without thinking although it might not be a good
           idea, it might get rude, but I don’t want to lie or polish my words.
           <br /> <br />
-          Lol, does it look like I’m being so down bad by saying all this? Does
-          it look like flattery? Is it appearing so lame? My bad if it is. I
-          just wanted to appreciate you, idk if it is coming off as an
-          appreciation post, honestly I don’t want to go up or re-read it again
-          and change it. That would be meddling with my feelings, even though
-          I’m writing this with honestly down from my heart I don’t want to
-          alter any thing and put it down right as it is coming it out. It just
-          feels like as if my heart and hands are connected, there’s no role of
-          brain here, there’s no filter in between, it’s all just natural. I’m
-          just writing down without thinking although it might not be a good
-          idea, it might get rude, but I don’t want to lie or polish my words.
-          <br /> <br />
           Heyyyy... how is that sweatshirt now. I really hope the colour didn’t
           wash off or it got wore off or anything, I was actually hesitant to
           give that one cause it wasn’t of good quality. Now I regret not giving
