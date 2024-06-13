@@ -19,9 +19,12 @@ ReactDOM.render(
     <Router>
       <Routes>
         <Route exact path="" element={<MainContent />} />
-        <Route exact path="/jasmine" element={<Jhnvi />} />
+        {/* <Route exact path="/jasmine" element={<Jhnvi />} />
         <Route exact path="/anas" element={<Anas />} />
-        <Route exact path="/lily" element={<Lily />} />
+        <Route exact path="/lily" element={<Lily />} /> */}
+        <Route exact path="/jasmine" element={<MainContent />} />
+        <Route exact path="/anas" element={<MainContent />} />
+        <Route exact path="/lily" element={<MainContent />} />
 
 
       </Routes>
